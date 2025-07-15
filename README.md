@@ -148,3 +148,5 @@ Para parar e remover todos os contêineres e redes criadas pelo Docker Compose:
 ```bash
 cd /caminho/para/a/raiz/do/projeto
 docker compose down
+docker compose up -d --build
+
